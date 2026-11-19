@@ -279,10 +279,10 @@ def main():
                   font(F_SERIF, 46), 540, leading=1.05)
     ty += 6
     ty = text_block(d, tx, ty,
-                    "Iran's drones struck US bases in Kuwait and Bahrain "
-                    "before dawn, and Washington answered with jets over "
-                    "Qeshm Island. Three US carriers now steam in the "
-                    "region as tankers burn in the Strait of Hormuz.",
+                    "US jets hit a Guards missile site on Qeshm Island "
+                    "on Tuesday. Iran answered with drones aimed at US "
+                    "bases in Kuwait and Bahrain. Three carriers moved "
+                    "in as tankers burned in the Strait of Hormuz.",
                     font(F_SANS, 22), 540)
     draw_burning_tanker(d, x + w - 392, y + 16, 368, h - 32)
 
@@ -330,8 +330,8 @@ def main():
          "Machilipatnam and Puri, with landfall expected on Friday.",
          RED, draw_cyclone),
         ("Asia — Diplomacy", "THREE LEADERS, ONE TABLE",
-         "Trump, Xi and Putin meet in Shenzhen at the APEC summit, "
-         "the first trilateral of the three leaders.",
+         "Trump, Xi and Putin are due to meet in Shenzhen at the APEC "
+         "summit, the first trilateral of the three leaders.",
          NAVY, draw_summit),
     ]
     for i, (kick, head, body, col, icon) in enumerate(stories):

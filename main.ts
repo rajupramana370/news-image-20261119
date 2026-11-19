@@ -2,13 +2,13 @@
 // make.fun entry: one image summing up Thursday 19 November 2026.
 //
 // The picture itself (entry.png, next to this file) is a newspaper front
-// page drawn with Python/Pillow from live reporting of the day: Iran's
-// drones striking US bases in Kuwait and Bahrain as Washington hit
-// Qeshm Island and a third US carrier reached the Gulf, Grand Theft
-// Auto VI rolling out worldwide after a 13-year wait, House Democrats
-// nominating Hakeem Jeffries for Speaker, Voyager 1 crossing one
-// light-day from Earth, Cyclone Akvan closing on India's east coast,
-// and Trump, Xi and Putin meeting in Shenzhen. The drawing script
+// page drawn with Python/Pillow from live reporting of the day: US jets
+// hitting a Revolutionary Guards missile site on Qeshm Island and Iran
+// answering with drones aimed at US bases in Kuwait and Bahrain, Grand
+// Theft Auto VI rolling out worldwide after a 13-year wait, House
+// Democrats nominating Hakeem Jeffries for Speaker, Voyager 1 crossing
+// one light-day from Earth, Cyclone Akvan closing on India's east coast,
+// and Trump, Xi and Putin due to meet in Shenzhen. The drawing script
 // (draw_news.py) is in this repo.
 //
 // This program only has one job: place that exact image at the output

@@ -10,10 +10,10 @@ that day's live reporting.
 
 ## The six stories
 
-1. **The Gulf war widens (Middle East)** — Iran's drones struck US bases in
-   Kuwait and Bahrain before dawn, and Washington answered with jets over
-   Qeshm Island. Three US carriers now steam in the region as tankers burn
-   in the Strait of Hormuz.
+1. **The Gulf war widens (Middle East)** — US jets hit a Revolutionary
+   Guards missile site on Qeshm Island on Tuesday. Iran answered with
+   drones aimed at US bases in Kuwait and Bahrain, as three US carriers
+   steamed into the region and tankers burned in the Strait of Hormuz.
 2. **Vice City at last (Culture)** — Grand Theft Auto VI rolls out worldwide
    after a 13-year wait, returning players to neon Vice City on PS5 and
    Xbox. Early reviews put it at 99 on Metacritic.
@@ -25,8 +25,9 @@ that day's live reporting.
    to reach it.
 5. **Akvan closes in (Asia)** — Cyclone Akvan is set to cross the coast
    between Machilipatnam and Puri, with landfall expected on Friday.
-6. **Three leaders, one table (Asia)** — Trump, Xi and Putin meet in
-   Shenzhen at the APEC summit, the first trilateral of the three leaders.
+6. **Three leaders, one table (Asia)** — Trump, Xi and Putin are due to
+   meet in Shenzhen at the APEC summit, the first trilateral of the
+   three leaders.
 
 Also today: the ICJ to rule on Myanmar's Rohingya genocide case; the
 Crimean Bridge hit again; a Van Gogh sells for a record $190.4m;
